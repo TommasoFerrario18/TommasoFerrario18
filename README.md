@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi! I'm a **Computer Scientist** and **AI enthusiast** passionate about **Machine Learning**, **Computer Vision**, and **creative technology**.<br><br>I’m currently developing a **desktop photo editing application** that combines powerful image editing tools with **AI-assisted features** to make the creative process faster, smarter, and more intuitive.<br><br>Alongside this, I’m researching a new approach to **scenario generation** based on **ARS (Adaptive Randomized Sampling) probability organization**, aiming to improve adaptive storytelling and simulation systems.
+Hi! I'm a **Computer Scientist** and **AI enthusiast** passionate about **Machine Learning**, **Computer Vision**, and **creative technology**.
+
+I’m currently developing a **desktop photo editing application** that combines powerful image editing tools with **AI-assisted features** to make the creative process faster, smarter, and more intuitive.
+
+Alongside this, I’m researching a new approach to **scenario generation** based on **Ars Probabilitas**, aiming to improve adaptive storytelling and simulation systems.
 
 ### 🚀 Current Projects
 
