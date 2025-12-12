@@ -34,9 +34,9 @@ I'm always open to feedback and exploring new partnerships in:
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" width="30"/>
 </p>
 
---- 
+<!-- --- 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TommasoFerrario18&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TommasoFerrario18&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TommasoFerrario18&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TommasoFerrario18&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
